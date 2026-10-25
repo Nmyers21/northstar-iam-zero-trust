@@ -40,4 +40,4 @@ See [operations](documentation/operations.md), [test results](documentation/test
 - [Lessons learned](documentation/lessons-learned.md)
 - [Evidence register and publication gaps](documentation/evidence-register.md)
 
-Selected screenshots have been cropped/redacted and visually reviewed. See the [evidence gallery](documentation/evidence-gallery.md). Publication remains pending final user review and GitHub setup. No repository has been published.
+Selected screenshots have been cropped/redacted and visually reviewed. See the [evidence gallery](documentation/evidence-gallery.md). This portfolio remains a work in progress; implemented controls and remaining gaps are documented separately.
